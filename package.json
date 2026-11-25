@@ -1,0 +1,1 @@
+{"description":"Picks the one sentence that could have replaced an entire pointless meeting and writes it to /output/entry.txt.","license":"MIT","name":"makefun-meeting-one-line","private":true,"type":"module","version":"1.0.0"}
